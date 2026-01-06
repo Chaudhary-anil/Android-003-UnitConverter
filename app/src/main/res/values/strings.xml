@@ -1,3 +1,18 @@
 <resources>
     <string name="app_name">UnitConverter</string>
+    <string name="value">Value</string>
+    <string name="refresh">Refresh</string>
+    <string name="app_title">Unit Converter</string>
+    <string name="from">From</string>
+    <string name="result">Result: %s</string>
+<!--    <string name="result">Result: %s</string>-->
+    <string name="mm">Millimetre</string>
+    <string name="cm">Centimetre</string>
+    <string name="m">Metre</string>
+    <string name="km">Kilometre</string>
+    <string name="inch">Inch</string>
+    <string name="foot">Foot</string>
+    <string name="yard">Yard</string>
+    <string name="mile">Mile</string>
+    <string name="to">To</string>
 </resources>
